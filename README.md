@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Gadia</h1>
-<h3 align="center">I'm a data scientist with expertise in machine learning, statistical analysis, and data visualization. I enjoy turning complex datasets into actionable insights and solving real-world problems.</h3>
+<h3 align="center">Data Analyst & Data Engineer with expertise in Python, SQL, Power BI, and data pipeline development. Passionate about transforming complex datasets into actionable insights through ETL, visualization, and machine learning. Experienced in building scalable solutions for analysis, reporting, and decision-making.
+</h3>
 
 <p align="center">
   <a href="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
